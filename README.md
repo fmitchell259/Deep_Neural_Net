@@ -9,6 +9,8 @@ The model is then trained and tested using `Kannada MNIST`.
 
 Below I have outlined the model accuracy using two different activation functions. 
 
+----
+
 <b><ins>ReLU Activation</ins></b>
 
 <i>Model Precision:</i> 0.9957
