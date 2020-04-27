@@ -12,13 +12,19 @@ Below I have outlined the model accuracy using two different activation function
 <b><ins>ReLU Activation</ins></b>
 
 <i>Model Precision:</i> 0.9957
+
 <i>Model Recall:</i> 0.9855
+
 <i>Model F1:</i> 0.9814
+
 <i>Model Accuracy:</i> 0.9831
 
 <b><ins>Tanh Activation</ins></b>
 
 <i>Model Precision:</i> 0.9959
+
 <i>Model Recall:</i> 0.9905
+
 <i>Model F1:</i> 0.9866
+
 <i>Model Accuracy:</i> 0.9878
