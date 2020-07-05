@@ -1,5 +1,5 @@
 # Deep_Neural_Net
-Deep Neural Net implementation from scratch that classifies the MNIST dataset.
+Deep Neural Network from scratch that classifies the MNIST dataset.
 
 Customisable implementation which allows the user to choose the number of `inputs`, `hidden nodes`, `layers` and `epochs`.
 
